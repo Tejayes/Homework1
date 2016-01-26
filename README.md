@@ -5,3 +5,6 @@
 
 - DIF Analysis
 - I'm also interested in DIF analyses, and I believe that once I learn how to use SAS/R to run such analyses, my research will become more accessible.
+
+# GitHub Location
+<https://github.com/Tejayes/Homework1>

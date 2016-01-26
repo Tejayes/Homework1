@@ -5,11 +5,15 @@
 
 *** What sorts of standardized test results to do you want to analyze, and with what type of groups will you be comparing (age, grade, subject, etc)? - NQ ***
 
+- The idea actually has to do with a different type of multiple choice testing and how item response theory models (specifically polytomous IRT models) may fit this method.
+
 - DIF Analysis
 <<<<<<< HEAD
 - I'm also interested in DIF analyses, and I believe that once I learn how to use SAS/R to run such analyses, my research will become more accessible.
 
 *** What is DIF analysis? - NQ ***
+
+- DIF = Differential Item Functioning, which is where certain test items have disproportionate effects against certain subpopulations (gender, race, disability, etc.).
 
 # GitHub Location
 <https://github.com/Tejayes/Homework1>

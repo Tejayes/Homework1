@@ -1,0 +1,5 @@
+# Ignore the Data folder
+Data/
+
+# Ignore pdf files
+*.pdf

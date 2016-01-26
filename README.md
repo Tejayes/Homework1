@@ -1,7 +1,5 @@
-# git Introduction
+# Topics I would like to explore
 
-- This is the first hands-on introduction of git, using the command line.
+- I want to learn more about using statistical software to run Monte Carlo studies. I have some research ideas involving standardized testing, and I believe that simulating data will provide a good start to the research.
 
-# Setup
-- This is how to setup git to be run.
-- First add, then commit.
+- I'm also interested in DIF analyses, and I believe that once I learn how to use SAS/R to run such analyses, my research will become more accessible.

@@ -12,3 +12,8 @@
 =======
 -- I'm also interested in DIF analyses, and I believe that once I learn how to use SAS/R to run such analyses, my research will become more accessible.
 >>>>>>> 0b07814e40a718164aff9dd0f0f3b3e4eac1f91b
+
+# Tools used
+- R
+- git
+- ggplot2
